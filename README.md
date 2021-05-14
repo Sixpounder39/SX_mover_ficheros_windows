@@ -1,7 +1,7 @@
 # SX MOVER FICHEROS WINDOWS (batch)
 
 Descarga el archivo .bat y cambia los parametros de unidad de origen y unidad de destino
-Así como el nombre de los directorios origen y destino.
+Así como el nombre de los directorios origen y destino. // Respaldo de mi cuenta anterior
 
 El batch esta diseñado para nomenclatura Unidad:\folderA\YYYYMMDD
 Puedes editarlo para adecuarlo a tu caso en particular
